@@ -41,3 +41,8 @@ if __name__ == "__main__":
     print(logo)
     print("BE WARNED! Discord rate limits can make the bot be slower over time. There is no way to by pass this.")
     main()
+
+
+input("Press ENTER to exit...")
+
+      
